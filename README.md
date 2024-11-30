@@ -35,19 +35,31 @@ This quetion helps optimize the road network in a city by prioritizing road cons
 4  **Input**:
 
    Enter the number of road projects.
+   
    Provide details for each project:
+   
    Identifier (e.g., road1)
+   
    Priority (integer)
+   
    Cost (integer)
+   
    Two Areas it connects (e.g., A1 A2)
+   
    End each project input by entering 0.
+   
    Example input 
    
 5
+
 road1 4 100 A1 A2
+
 road2 3 150 A2 A3
+
 road3 5 200 A3 A4
+
 road4 4 50 A4 A1
+
 road5 5 120 A2 A4
 
 
